@@ -22,7 +22,7 @@ _No known bugs._
 
 ## Support and contact details
 
-_Questions or comments can be directed to [Jillian Gibson](jillian.l.gibson@gmail.com)._
+_Questions or comments can be directed to [Jillian Gibson](jillian.l.gibson@gmail.com) or [David McCaslin](davidmccaslin94@gmail.com)._
 
 ## Technologies Used
 
@@ -35,4 +35,4 @@ _Questions or comments can be directed to [Jillian Gibson](jillian.l.gibson@gmai
 
 *_This software operates under the [MIT](https://en.wikipedia.org/wiki/MIT_License) license._*
 
-Copyright (c) 20202 **_Jillian Gibson_**
+Copyright (c) 20202 **_Jillian Gibson and David McCaslin_**
