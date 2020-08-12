@@ -1,12 +1,12 @@
-# _PPOJECT TITLE_
+# _Mad Lib Assignment_
 
-#### _BRIEF DESCRIPTION OF APPLICATION, DATE.2020_
+#### _Application demonstrates the form function, 8.11.2020_
 
 #### By _**Jillian Gibson**_
 
 ## Description
 
-_This HTML demonstrates the fundamental understanding of...._
+_This HTML demonstrates the fundamental understanding of forms in JavaScript and jQuery._
 
 ## Setup/Installation Requirements
 
