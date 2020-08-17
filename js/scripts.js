@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("#formOne").submit(function(event) {
+    event.preventDefault();
     // const person1Input = $("input#person1").val();
     // const person2Input = $("input#person2").val();
     // const animalInput= $("input#animal").val();
@@ -32,6 +33,6 @@ $(document).ready(function() {
 
     $("#story").show();
 
-    event.preventDefault();
+    
   });
 });
