@@ -23,6 +23,20 @@ $(document).ready(function() {
     const verb1Input = $("input#verb1").val();
     const verb2Input = $("input#verb2").val();
 
+    // Refactor to use loops
+    let responses = [];
+    responses.push(adjective1Input,adjective2Input,typeOfFoodInput,roomOfHouseInput,exclamationInput,verb1Input,verb2Input);
+    let spans = [".adjective1",".adjective2",".typeOfFood",".roomOfHouse",".exclamation",".verb1",".verb2"];
+
+    let count = 0;
+    spans.forEach(function(span) {
+      $(span).text(responses[count]);
+      count++;
+    });
+
+    $("#story").show();
+
+    /*
     $(".adjective1").text(adjective1Input);
     $(".adjective2").text(adjective2Input);
     $(".typeOfFood").text(typeOfFoodInput);
@@ -30,8 +44,10 @@ $(document).ready(function() {
     $(".exclamation").text(exclamationInput);
     $(".verb1").text(verb1Input);
     $(".verb2").text(verb2Input);
+    
 
     $("#story").show();
+    */
 
     
   });
